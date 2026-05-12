@@ -1,6 +1,6 @@
  
 # OWASP-Top10-WebLabs                                                                           
-Web Pentesting labs organized by OWASP Top 10 vulnerabilities                                                   kkkjkkjjl    
+Web Pentesting labs organized by OWASP Top 10 vulnerabilities                                                   kkkjkjjl    
                                                                              
                                                                   
                                                                
