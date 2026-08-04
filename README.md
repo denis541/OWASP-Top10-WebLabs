@@ -1,12 +1,4 @@
                             
 # OWASP-Top10-WebLabs                                                                                                                                                                                       
 Web Pentesting *labs* organized by `OWASP` Top 10 vulnerabilities                                            
-ee
-eee
-eeeee
-e
-eeeee
-eeeee
-eee
-ee
-ee
+
