@@ -6,6 +6,6 @@ f
 e
 g
 ff
-gg
+gge
 ge
 e
